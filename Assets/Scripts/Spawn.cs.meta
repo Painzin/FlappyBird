@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 2c49a6c735e49744da4620ae1b41cc00
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - obs: {fileID: 6249114175738991670, guid: c0ca349953dd438449b050605f42a613, type: 3}
+  - chao: {fileID: 3289298799886521373, guid: 05c4fb2d862adb04a8e890aca4550eb5, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
